@@ -1,1 +1,4 @@
-API for Morse code
+(study case)
+
+Simple API to encode and decode Morse code
+
