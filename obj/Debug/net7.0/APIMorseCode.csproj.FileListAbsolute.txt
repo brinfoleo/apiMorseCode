@@ -23,3 +23,11 @@ C:\dev\apiMorseCode\apiMorseCode\obj\Debug\net7.0\refint\APIMorseCode.dll
 C:\dev\apiMorseCode\apiMorseCode\obj\Debug\net7.0\APIMorseCode.pdb
 C:\dev\apiMorseCode\apiMorseCode\obj\Debug\net7.0\APIMorseCode.genruntimeconfig.cache
 C:\dev\apiMorseCode\apiMorseCode\obj\Debug\net7.0\ref\APIMorseCode.dll
+C:\dev\apiMorseCode\apiMorseCode\obj\Debug\net7.0\APIMorseCode.csproj.AssemblyReference.cache
+C:\dev\apiMorseCode\apiMorseCode\obj\Debug\net7.0\APIMorseCode.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\apiMorseCode\apiMorseCode\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\dev\apiMorseCode\apiMorseCode\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\dev\apiMorseCode\apiMorseCode\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\apiMorseCode\apiMorseCode\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\apiMorseCode\apiMorseCode\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\apiMorseCode\apiMorseCode\obj\Debug\net7.0\APIMorseCode.csproj.CopyComplete

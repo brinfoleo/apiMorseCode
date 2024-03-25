@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "HLOKi6cZVcSvNNdtfgBB0jrriJl/Ub6wjdIYbAT0QTSM7Jiaa4umUPV6vzEidIv2P9X8rP/5Y4uAk3WMKsxo2Q==",
+  "dgSpecHash": "yh6+Snk6WB6IqQAvaTesMupOlVK6VgZvG5o2c3Q7JaPiUY2zRWNEf3GQzVQdnSdaIT+HU5C5PCYsVJsWymCR0A==",
   "success": true,
   "projectFilePath": "C:\\dev\\apiMorseCode\\apiMorseCode\\APIMorseCode.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
